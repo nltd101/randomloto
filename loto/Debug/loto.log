@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\user\Desktop\LOTO\loto\loto\main.cpp(8,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\LOTO\loto\loto\main.cpp(10,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\LOTO\loto\loto\main.cpp(29,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\LOTO\loto\loto\main.cpp(36,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\LOTO\loto\loto\main.cpp(68,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\user\Desktop\LOTO\loto\loto\main.cpp(71,9): warning C4101: 'i': unreferenced local variable
+  loto.vcxproj -> C:\Users\user\Desktop\LOTO\loto\Debug\loto.exe
